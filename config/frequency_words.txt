@@ -1,6 +1,3 @@
-胖东来
-于东来
-
 DeepSeek
 梁文锋
 
@@ -69,6 +66,7 @@ deepmind
 chatgpt
 openai
 sora
+grok
 
 claude
 Anthropic
@@ -92,6 +90,9 @@ ai
 美国
 日本
 韩国
+英国
+德国
+法国
 
 芯片
 光刻机
@@ -100,10 +101,7 @@ ai
 
 核能
 
-水电站
-雅鲁藏布江
 
-新质生产力
 
 月球
 登月
